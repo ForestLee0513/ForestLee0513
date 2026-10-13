@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hello, I'm Woolim Lee(이우림) 👋
 
-<!--
-**ForestLee0513/ForestLee0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sites
+- [Portfolio](https://forestlee.me) - Download résumé and portfolio is available too.
+- [LinkedIn](https://www.linkedin.com/in/woolimlee0513)
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end
+- HTML/CSS/JavaScript
+- React
+- React Native
+- TypeScript
+- Next.js
+- Vue.js(Nuxt)
+- Zustand
+- Redux
+- Tanstack Query
+
+### Back-end / Infra
+- Github Actions
+- Docker / Docker Compose
+- on-premise server management (Currently running with **Ryzen 5400U / 32GB RAM**)
+- AWS (EC2 / S3 / Amplify)
+- Netlify
+- cloudflare
+- Python (Flask / FastAPI)
+- Supabase
+
+## Experience
+
+### Seed-To(주식회사 씨드투) | Front-end Developer
+`2025.02` ~ Current
+- Ubittz Design system development (Web / React Native)
+- Toss payment / Bootpay based Payment integration
+- Web-app development based on PWA / React Native
+- Admin dashboard development based on React
+
+### AISUM(주식회사 에이아이썸 / former PSR Media) | Front-end Developer
+`2020.11` ~ `2022.05`
+- E-commerce AI Image analyze based product recommend banner development based on TypeScript, Jinja2, iframe (from South Korean e-commerce services like **Cafe24**, **godomall**, **makeshop**)
+- Admin dashboard development based on React
+- Built monorepo architecture with Yarn berry(workspace)
