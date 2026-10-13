@@ -1,5 +1,9 @@
 # Hello, I'm Woolim Lee(이우림) 👋
 
+## Sites
+- [Portfolio](https://forestlee.me) - Download résumé and portfolio is available too.
+- [LinkedIn](https://www.linkedin.com/in/woolimlee0513)
+
 ## Tech Stack
 
 ### Front-end
@@ -17,7 +21,9 @@
 - Github Actions
 - Docker / Docker Compose
 - on-premise server management (Currently running with **Ryzen 5400U / 32GB RAM**)
-- AWS
+- AWS (EC2 / S3 / Amplify)
+- Netlify
+- cloudflare
 - Python (Flask / FastAPI)
 - Supabase
 
@@ -27,16 +33,11 @@
 `2025.02` ~ Current
 - Ubittz Design system development (Web / React Native)
 - Toss payment / Bootpay based Payment integration
-- Web-app development based on PWA / React Native (worked on agency)
+- Web-app development based on PWA / React Native
 - Admin dashboard development based on React
 
 ### AISUM(주식회사 에이아이썸 / former PSR Media) | Front-end Developer
 `2020.11` ~ `2022.05`
-- E-commerce AI based product recommend banner development based on TypeScript, Jinja2, iframe (from Korean e-commerce services like **Cafe24**, **godomall**, **makeshop**)
+- E-commerce AI Image analyze based product recommend banner development based on TypeScript, Jinja2, iframe (from South Korean e-commerce services like **Cafe24**, **godomall**, **makeshop**)
 - Admin dashboard development based on React
 - Built monorepo architecture with Yarn berry(workspace)
----
-## If you're interested..
-Please check [LinkedIn](https://www.linkedin.com/in/woolimlee0513/) to see more my all experiences like personal projects!
-
-And also Resume is currently working on it.. If it's finish, I'll upload it.(with some projects..)
