@@ -30,7 +30,7 @@
 ## Experience
 
 ### Seed-To(주식회사 씨드투) | Front-end Developer
-`2025.02` ~ Current
+`2025.02` ~ `2026.10`
 - Ubittz Design system development (Web / React Native)
 - Toss payment / Bootpay based Payment integration
 - Web-app development based on PWA / React Native
