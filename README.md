@@ -20,7 +20,7 @@
 ### Back-end / Infra
 - Github Actions
 - Docker / Docker Compose
-- on-premise server management (Currently running with **Ryzen 5400U / 32GB RAM**)
+- on-premise server management (Currently running with **Ryzen 2200U / 32GB RAM**)
 - AWS (EC2 / S3 / Amplify)
 - Netlify
 - cloudflare
